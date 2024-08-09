@@ -1,0 +1,6 @@
+{
+  "email":"#(email)",
+  "name":"#(name)",
+  "gender":"#(gender)",
+  "status":"#(status)"
+}
